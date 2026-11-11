@@ -1,0 +1,3255 @@
+[
+  {
+    "kode": "BRG-0002",
+    "kategori": "KEMEJA",
+    "nama": "IPM NAS SD PUTRA",
+    "warna": "Coklat",
+    "rincian": {
+      "S": 20,
+      "M": 35,
+      "L": 33,
+      "XL": 17,
+      "XXL": 0
+    },
+    "harga_dasar": 80000,
+    "harga_min": 80000,
+    "harga_max": 91000,
+    "tanggal": "2026-09-21"
+  },
+  {
+    "kode": "BRG-0004",
+    "kategori": "KEMEJA",
+    "nama": "IPM NAS SD PUTRI",
+    "warna": "Coklat",
+    "rincian": {
+      "S": 0,
+      "M": 1,
+      "L": 3,
+      "XL": 4,
+      "XXL": 0
+    },
+    "harga_dasar": 80000,
+    "harga_min": 80000,
+    "harga_max": 98000,
+    "tanggal": "2026-09-21"
+  },
+  {
+    "kode": "BRG-0005",
+    "kategori": "KEMEJA",
+    "nama": "IPM NAS SMA PUTRA",
+    "warna": "Coklat",
+    "rincian": {
+      "S": 0,
+      "M": 4,
+      "L": 0,
+      "XL": 5,
+      "XXL": 0
+    },
+    "harga_dasar": 80000,
+    "harga_min": 80000,
+    "harga_max": 85000,
+    "tanggal": "2026-09-21"
+  },
+  {
+    "kode": "BRG-0006",
+    "kategori": "KEMEJA",
+    "nama": "IPM NAS SMA PUTRI",
+    "warna": "Coklat",
+    "rincian": {
+      "S": 0,
+      "M": 5,
+      "L": 5,
+      "XL": 2,
+      "XXL": 0
+    },
+    "harga_dasar": 90000,
+    "harga_min": 90000,
+    "harga_max": 92000,
+    "tanggal": "2026-09-21"
+  },
+  {
+    "kode": "BRG-0007",
+    "kategori": "KEMEJA",
+    "nama": "BATIK FGM PUTRI",
+    "warna": "Coklat",
+    "rincian": {
+      "S": 0,
+      "M": 3,
+      "L": 3,
+      "XL": 3,
+      "XXL": 3
+    },
+    "harga_dasar": 21000,
+    "harga_min": 210000,
+    "harga_max": 210000,
+    "tanggal": "2026-09-21"
+  },
+  {
+    "kode": "BRG-0008",
+    "kategori": "KEMEJA",
+    "nama": "BATIK FGM PUTRA",
+    "warna": "Coklat",
+    "rincian": {
+      "S": 0,
+      "M": 3,
+      "L": 3,
+      "XL": 4,
+      "XXL": 1
+    },
+    "harga_dasar": 180000,
+    "harga_min": 180000,
+    "harga_max": 190000,
+    "tanggal": "2026-09-21"
+  },
+  {
+    "kode": "BRG-0009",
+    "kategori": "KEMEJA",
+    "nama": "BLUS AISIYAH",
+    "warna": "Coklat",
+    "rincian": {
+      "S": 0,
+      "M": 3,
+      "L": 3,
+      "XL": 2,
+      "XXL": 0
+    },
+    "harga_dasar": 210000,
+    "harga_min": 210000,
+    "harga_max": 220000,
+    "tanggal": "2026-09-21"
+  },
+  {
+    "kode": "BRG-0010",
+    "kategori": "KEMEJA",
+    "nama": "BATIK MUH NAS PUTRA",
+    "warna": "Coklat",
+    "rincian": {
+      "S": 0,
+      "M": 0,
+      "L": 0,
+      "XL": 1,
+      "XXL": 2
+    },
+    "harga_dasar": 190000,
+    "harga_min": 190000,
+    "harga_max": 200000,
+    "tanggal": "2026-09-21"
+  },
+  {
+    "kode": "BRG-0013",
+    "kategori": "KAIN",
+    "nama": "KAIN IPM SD 2M",
+    "warna": "Coklat",
+    "rincian": {
+      "PCS": 9
+    },
+    "harga_dasar": 90000,
+    "harga_min": 100000,
+    "harga_max": 100000,
+    "tanggal": "2026-09-21"
+  },
+  {
+    "kode": "BRG-0014",
+    "kategori": "KAIN",
+    "nama": "KAIN IPM SMA",
+    "warna": "Coklat",
+    "rincian": {
+      "PCS": 7
+    },
+    "harga_dasar": 90000,
+    "harga_min": 100000,
+    "harga_max": 100000,
+    "tanggal": "2026-09-21"
+  },
+  {
+    "kode": "BRG-0015",
+    "kategori": "KAIN",
+    "nama": "KAIN IPM SMP",
+    "warna": "Coklat",
+    "rincian": {
+      "PCS": 22
+    },
+    "harga_dasar": 90000,
+    "harga_min": 100000,
+    "harga_max": 100000,
+    "tanggal": "2026-09-21"
+  },
+  {
+    "kode": "BRG-0016",
+    "kategori": "KAIN",
+    "nama": "BATIK MILAD MUH",
+    "warna": "Coklat",
+    "rincian": {
+      "PCS": 17
+    },
+    "harga_dasar": 240000,
+    "harga_min": 250000,
+    "harga_max": 250000,
+    "tanggal": "2026-09-21"
+  },
+  {
+    "kode": "BRG-0017",
+    "kategori": "KAIN",
+    "nama": "KAIN BATIK MUH NASIONAL 2,5M",
+    "warna": "Coklat",
+    "rincian": {
+      "PCS": 10
+    },
+    "harga_dasar": 230000,
+    "harga_min": 230000,
+    "harga_max": 230000,
+    "tanggal": "2026-09-21"
+  },
+  {
+    "kode": "BRG-0018",
+    "kategori": "KAIN",
+    "nama": "KAIN MUH NASIONAL 2M",
+    "warna": "Coklat",
+    "rincian": {
+      "PCS": 66
+    },
+    "harga_dasar": 187000,
+    "harga_min": 187000,
+    "harga_max": 187000,
+    "tanggal": "2026-09-21"
+  },
+  {
+    "kode": "BRG-0019",
+    "kategori": "KAIN",
+    "nama": "KAIN PTM NASIONAL 2M",
+    "warna": "Coklat",
+    "rincian": {
+      "PCS": 2
+    },
+    "harga_dasar": 180000,
+    "harga_min": 187000,
+    "harga_max": 187000,
+    "tanggal": "2026-09-21"
+  },
+  {
+    "kode": "BRG-0020",
+    "kategori": "BAJU",
+    "nama": "HW BAJU PUTRA",
+    "warna": "Coklat",
+    "rincian": {
+      "2": 6,
+      "7": 5,
+      "10": 5
+    },
+    "harga_dasar": 85000,
+    "harga_min": 85000,
+    "harga_max": 100000,
+    "tanggal": "2026-09-21"
+  },
+  {
+    "kode": "BRG-0021",
+    "kategori": "BAJU",
+    "nama": "HW BAJU PUTRI",
+    "warna": "Coklat",
+    "rincian": {
+      "2": 5,
+      "7": 5,
+      "10": 5
+    },
+    "harga_dasar": 85000,
+    "harga_min": 85000,
+    "harga_max": 100000,
+    "tanggal": "2026-09-21"
+  },
+  {
+    "kode": "BRG-0022",
+    "kategori": "CELANA",
+    "nama": "HE CELANA",
+    "warna": "Coklat",
+    "rincian": {
+      "7": 5,
+      "10": 5,
+      "14": 5
+    },
+    "harga_dasar": 80000,
+    "harga_min": 90000,
+    "harga_max": 110000,
+    "tanggal": "2026-09-21"
+  },
+  {
+    "kode": "BRG-0023",
+    "kategori": "BAJU",
+    "nama": "BAJU BATIK MUH KHAS SULAWESI",
+    "warna": "Coklat",
+    "rincian": {
+      "M": 1,
+      "L": 1,
+      "XL": 1,
+      "XXL": 1
+    },
+    "harga_dasar": 180000,
+    "harga_min": 190000,
+    "harga_max": 190000,
+    "tanggal": "2026-09-23"
+  },
+  {
+    "kode": "BRG-0024",
+    "kategori": "BAJU",
+    "nama": "BAJU BATIK MUH KHAS ACEH",
+    "warna": "Abu-abu",
+    "rincian": {
+      "XL": 2,
+      "L": 2
+    },
+    "harga_dasar": 180000,
+    "harga_min": 190000,
+    "harga_max": 190000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0025",
+    "kategori": "BAJU",
+    "nama": "BLUS BATIK MUH KHAS SULAWESI",
+    "warna": "Coklat",
+    "rincian": {
+      "XXL": 1
+    },
+    "harga_dasar": 200000,
+    "harga_min": 210000,
+    "harga_max": 210000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0026",
+    "kategori": "BAJU",
+    "nama": "BAJU BATIK MUH KHAS SUMATERA",
+    "warna": "Coklat",
+    "rincian": {
+      "XL": 2,
+      "L": 2
+    },
+    "harga_dasar": 190000,
+    "harga_min": 190000,
+    "harga_max": 190000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0027",
+    "kategori": "BAJU",
+    "nama": "BLUS BATIK MUH 7 RUPA",
+    "warna": "Abu-abu",
+    "rincian": {
+      "M": 1,
+      "XL": 1
+    },
+    "harga_dasar": 240000,
+    "harga_min": 250000,
+    "harga_max": 250000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0028",
+    "kategori": "BAJU",
+    "nama": "BLUS MUH MERAK FURING",
+    "warna": "Abu-abu",
+    "rincian": {
+      "XL": 1,
+      "L": 1
+    },
+    "harga_dasar": 25000,
+    "harga_min": 260000,
+    "harga_max": 260000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0029",
+    "kategori": "BAJU",
+    "nama": "BATIK MUH 7 RUPA",
+    "warna": "Abu-abu",
+    "rincian": {
+      "M": 1,
+      "L": 1,
+      "XL": 1,
+      "XXL": 1
+    },
+    "harga_dasar": 210000,
+    "harga_min": 220000,
+    "harga_max": 220000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0030",
+    "kategori": "BAJU",
+    "nama": "BAJU BATIK MUH MERAK FURING",
+    "warna": "Abu-abu",
+    "rincian": {
+      "L": 1,
+      "XL": 1,
+      "XXL": 1
+    },
+    "harga_dasar": 230000,
+    "harga_min": 240000,
+    "harga_max": 240000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0031",
+    "kategori": "BAJU",
+    "nama": "BAJU BATIK MUH MERAK FURING",
+    "warna": "Abu-abu",
+    "rincian": {
+      "L": 1,
+      "XL": 1,
+      "XXL": 1
+    },
+    "harga_dasar": 230000,
+    "harga_min": 240000,
+    "harga_max": 240000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0032",
+    "kategori": "BAJU",
+    "nama": "BAJU BATIK MUH KHAS YOGYAKARTA",
+    "warna": "Coklat",
+    "rincian": {
+      "XXL": 1
+    },
+    "harga_dasar": 180000,
+    "harga_min": 190000,
+    "harga_max": 190000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0033",
+    "kategori": "BAJU",
+    "nama": "BAJU MUH KHAS MINANG",
+    "warna": "Coklat",
+    "rincian": {
+      "L": 2,
+      "XL": 2
+    },
+    "harga_dasar": 180000,
+    "harga_min": 190000,
+    "harga_max": 190000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0034",
+    "kategori": "BAJU",
+    "nama": "BLUS BATIK MUH DAHLAN SEKAR SURYA",
+    "warna": "Abu-abu",
+    "rincian": {
+      "M": 1,
+      "XL": 1
+    },
+    "harga_dasar": 240000,
+    "harga_min": 250000,
+    "harga_max": 250000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0035",
+    "kategori": "BAJU",
+    "nama": "BATIK MUH ZAM ZAM TOWER",
+    "warna": "Abu-abu",
+    "rincian": {
+      "L": 2,
+      "XL": 2
+    },
+    "harga_dasar": 190000,
+    "harga_min": 200000,
+    "harga_max": 200000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0036",
+    "kategori": "BAJU",
+    "nama": "BATIK MUH PARANG MATAHARI",
+    "warna": "Abu-abu",
+    "rincian": {
+      "L": 1,
+      "XL": 1
+    },
+    "harga_dasar": 220000,
+    "harga_min": 220000,
+    "harga_max": 220000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0037",
+    "kategori": "BAJU",
+    "nama": "BAJU BATIK SM TOWER",
+    "warna": "Abu-abu",
+    "rincian": {
+      "M": 2,
+      "XL": 1
+    },
+    "harga_dasar": 190000,
+    "harga_min": 200000,
+    "harga_max": 200000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0038",
+    "kategori": "BAJU",
+    "nama": "BLUS BATIK MUH PARANG MATAHARI",
+    "warna": "Abu-abu",
+    "rincian": {
+      "L": 1,
+      "XL": 1
+    },
+    "harga_dasar": 240000,
+    "harga_min": 240000,
+    "harga_max": 240000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0039",
+    "kategori": "BAJU",
+    "nama": "BAJU BATIK MUH KHAS JABAR",
+    "warna": "Abu-abu",
+    "rincian": {
+      "XXL": 2
+    },
+    "harga_dasar": 190000,
+    "harga_min": 190000,
+    "harga_max": 190000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0040",
+    "kategori": "BAJU",
+    "nama": "BATIK MUH KAS NTB",
+    "warna": "Coklat",
+    "rincian": {
+      "M": 2,
+      "XL": 2
+    },
+    "harga_dasar": 180000,
+    "harga_min": 190000,
+    "harga_max": 190000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0041",
+    "kategori": "BAJU",
+    "nama": "BLUS BATIK MUH SAKINAH HIJAU",
+    "warna": "Coklat",
+    "rincian": {
+      "L": 1,
+      "XL": 1
+    },
+    "harga_dasar": 240000,
+    "harga_min": 250000,
+    "harga_max": 250000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0042",
+    "kategori": "BAJU",
+    "nama": "BAJU BATIK MUH SAKINAH HIJAU",
+    "warna": "Abu-abu",
+    "rincian": {
+      "M": 1,
+      "L": 1,
+      "XL": 1
+    },
+    "harga_dasar": 210000,
+    "harga_min": 220000,
+    "harga_max": 220000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0043",
+    "kategori": "BAJU",
+    "nama": "BAJU BATIK PRASOJO",
+    "warna": "Abu-abu",
+    "rincian": {
+      "M": 1,
+      "L": 1,
+      "XXL": 1
+    },
+    "harga_dasar": 210000,
+    "harga_min": 220000,
+    "harga_max": 220000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0044",
+    "kategori": "BAJU",
+    "nama": "BAJU BATIK MUH KHAS PAPUA",
+    "warna": "Abu-abu",
+    "rincian": {
+      "XL": 2
+    },
+    "harga_dasar": 180000,
+    "harga_min": 190000,
+    "harga_max": 190000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0045",
+    "kategori": "BAJU",
+    "nama": "BLUS BATIK MUH PRASOJO",
+    "warna": "Abu-abu",
+    "rincian": {
+      "L": 1,
+      "XL": 1
+    },
+    "harga_dasar": 240000,
+    "harga_min": 250000,
+    "harga_max": 250000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0046",
+    "kategori": "BAJU",
+    "nama": "BAJU BATIK MUH GUMAR",
+    "warna": "Abu-abu",
+    "rincian": {
+      "L": 1,
+      "XL": 1,
+      "XXL": 1
+    },
+    "harga_dasar": 210000,
+    "harga_min": 220000,
+    "harga_max": 220000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0047",
+    "kategori": "BAJU",
+    "nama": "BAJU MUH DIKDAS SEKAR JAGAG",
+    "warna": "Coklat",
+    "rincian": {
+      "M": 1,
+      "L": 1,
+      "XL": 1,
+      "XXL": 1
+    },
+    "harga_dasar": 150000,
+    "harga_min": 19000,
+    "harga_max": 160000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0048",
+    "kategori": "BAJU",
+    "nama": "BLUS BATIK MUH SAKINA BIRU",
+    "warna": "Abu-abu",
+    "rincian": {
+      "L": 1,
+      "XL": 1,
+      "XXL": 0
+    },
+    "harga_dasar": 240000,
+    "harga_min": 240000,
+    "harga_max": 250000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0049",
+    "kategori": "BAJU",
+    "nama": "BAJU BATIK MUH SAKINAH BIRU",
+    "warna": "Abu-abu",
+    "rincian": {
+      "XL": 1,
+      "XXL": 1
+    },
+    "harga_dasar": 50000,
+    "harga_min": 220000,
+    "harga_max": 220000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0050",
+    "kategori": "BAJU",
+    "nama": "BLUS MUH PARANG SAMUDRA",
+    "warna": "Abu-abu",
+    "rincian": {
+      "L": 1,
+      "XL": 1
+    },
+    "harga_dasar": 240000,
+    "harga_min": 250000,
+    "harga_max": 250000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0051",
+    "kategori": "BAJU",
+    "nama": "BAJU BATIK MUH PARANG SAMUDRA",
+    "warna": "Abu-abu",
+    "rincian": {
+      "XL": 1,
+      "XXL": 1
+    },
+    "harga_dasar": 210000,
+    "harga_min": 220000,
+    "harga_max": 220000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0052",
+    "kategori": "BAJU",
+    "nama": "BAJU MUH PARANG GURDHA",
+    "warna": "Coklat",
+    "rincian": {
+      "XL": 1,
+      "XXL": 1
+    },
+    "harga_dasar": 210009,
+    "harga_min": 220000,
+    "harga_max": 220000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0053",
+    "kategori": "BAJU",
+    "nama": "KAIN AISY NAS HALUS",
+    "warna": "Abu-abu",
+    "rincian": {
+      "KAIN": 2
+    },
+    "harga_dasar": 90000,
+    "harga_min": 100000,
+    "harga_max": 100000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0054",
+    "kategori": "KAIN",
+    "nama": "KAIN BATIK TS",
+    "warna": "Pink",
+    "rincian": {
+      "PCS": 2
+    },
+    "harga_dasar": 90000,
+    "harga_min": 100000,
+    "harga_max": 100000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0055",
+    "kategori": "BAJU",
+    "nama": "KAIN BATIK KHAS JABAR 2M",
+    "warna": "Abu-abu",
+    "rincian": {
+      "KAIN": 1,
+      "PCS": 1
+    },
+    "harga_dasar": 130000,
+    "harga_min": 130000,
+    "harga_max": 130000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0056",
+    "kategori": "KAIN",
+    "nama": "KAIN BATIK MUH 7 RUPA",
+    "warna": "Abu-abu",
+    "rincian": {
+      "PCS": 1
+    },
+    "harga_dasar": 160000,
+    "harga_min": 170000,
+    "harga_max": 170000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0057",
+    "kategori": "KAIN",
+    "nama": "KAIN BATIK SAKINA HIJAU",
+    "warna": "Abu-abu",
+    "rincian": {
+      "PCS": 2
+    },
+    "harga_dasar": 150000,
+    "harga_min": 160000,
+    "harga_max": 160000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0058",
+    "kategori": "BAJU",
+    "nama": "KAIN BATIK MUH KHAS KALIMANTAN",
+    "warna": "Abu-abu",
+    "rincian": {
+      "PCS": 1
+    },
+    "harga_dasar": 120000,
+    "harga_min": 130000,
+    "harga_max": 130000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0059",
+    "kategori": "KAIN",
+    "nama": "KAIN BASURET",
+    "warna": "Abu-abu",
+    "rincian": {
+      "PCS": 2
+    },
+    "harga_dasar": 120000,
+    "harga_min": 130000,
+    "harga_max": 130000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0060",
+    "kategori": "BAJU",
+    "nama": "KAIN BATIK KHAS SUMATERA UTARA 2M",
+    "warna": "Coklat",
+    "rincian": {
+      "PCS": 2
+    },
+    "harga_dasar": 120000,
+    "harga_min": 130000,
+    "harga_max": 130000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0061",
+    "kategori": "KAIN",
+    "nama": "KAIN BATIK KHAS SULAWESI 2M",
+    "warna": "Abu-abu",
+    "rincian": {
+      "PCS": 2
+    },
+    "harga_dasar": 130000,
+    "harga_min": 130000,
+    "harga_max": 130000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0062",
+    "kategori": "KAIN",
+    "nama": "KAIN MUH DAHLAN SEKAR SURYA KATUN",
+    "warna": "Abu-abu",
+    "rincian": {
+      "PCS": 1
+    },
+    "harga_dasar": 170000,
+    "harga_min": 170000,
+    "harga_max": 170000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0063",
+    "kategori": "KAIN",
+    "nama": "KAIN BATIK HW",
+    "warna": "Abu-abu",
+    "rincian": {
+      "PCS": 2
+    },
+    "harga_dasar": 120000,
+    "harga_min": 130000,
+    "harga_max": 130000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0064",
+    "kategori": "KAIN",
+    "nama": "KAIN IPM 2M",
+    "warna": "Abu-abu",
+    "rincian": {
+      "PCS": 2
+    },
+    "harga_dasar": 120000,
+    "harga_min": 120000,
+    "harga_max": 120000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0065",
+    "kategori": "KAIN",
+    "nama": "KAIN SM IMM KATUN",
+    "warna": "Merah",
+    "rincian": {
+      "PCS": 2
+    },
+    "harga_dasar": 110000,
+    "harga_min": 120000,
+    "harga_max": 120000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0066",
+    "kategori": "KAIN",
+    "nama": "KIAN BATIK KHAS NTB",
+    "warna": "Abu-abu",
+    "rincian": {
+      "PCS": 2
+    },
+    "harga_dasar": 130000,
+    "harga_min": 130000,
+    "harga_max": 130000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0067",
+    "kategori": "KAIN",
+    "nama": "KAIN BATIK KHAS MINANGKABAU 2M",
+    "warna": "Abu-abu",
+    "rincian": {
+      "PCS": 2
+    },
+    "harga_dasar": 130000,
+    "harga_min": 130000,
+    "harga_max": 130000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0068",
+    "kategori": "KAIN",
+    "nama": "KAIN BATIK MUH MERAK",
+    "warna": "Abu-abu",
+    "rincian": {
+      "PCS": 2
+    },
+    "harga_dasar": 100000,
+    "harga_min": 110000,
+    "harga_max": 110000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0069",
+    "kategori": "KAIN",
+    "nama": "KAIN MUH DIKDASMEN SEKAR JAGAD",
+    "warna": "Coklat",
+    "rincian": {
+      "PCS": 2
+    },
+    "harga_dasar": 160000,
+    "harga_min": 170000,
+    "harga_max": 170000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0070",
+    "kategori": "KAIN",
+    "nama": "KAIN MUH KHAS YOGYAKARTA",
+    "warna": "Abu-abu",
+    "rincian": {
+      "PCS": 2
+    },
+    "harga_dasar": 120000,
+    "harga_min": 130000,
+    "harga_max": 130000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0071",
+    "kategori": "KAIN",
+    "nama": "KAIN MA HARIAN",
+    "warna": "Abu-abu",
+    "rincian": {
+      "PCS": 1
+    },
+    "harga_dasar": 160000,
+    "harga_min": 170000,
+    "harga_max": 170000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0072",
+    "kategori": "KAIN",
+    "nama": "KAIN BATIK MUH KHAS PAPUA",
+    "warna": "Abu-abu",
+    "rincian": {
+      "PCS": 2
+    },
+    "harga_dasar": 130000,
+    "harga_min": 130000,
+    "harga_max": 130000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0073",
+    "kategori": "KAIN",
+    "nama": "KAIN PEMUDA AL KAHFI",
+    "warna": "Abu-abu",
+    "rincian": {
+      "PCS": 2
+    },
+    "harga_dasar": 110000,
+    "harga_min": 120000,
+    "harga_max": 120000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0074",
+    "kategori": "KAIN",
+    "nama": "KAIN BATIK MUH PRASOJO",
+    "warna": "Coklat",
+    "rincian": {
+      "PCS": 1
+    },
+    "harga_dasar": 150000,
+    "harga_min": 160000,
+    "harga_max": 160000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0075",
+    "kategori": "KAIN",
+    "nama": "KAIN BATIK ZAM ZAM",
+    "warna": "Abu-abu",
+    "rincian": {
+      "PCS": 2
+    },
+    "harga_dasar": 130000,
+    "harga_min": 140000,
+    "harga_max": 140000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0076",
+    "kategori": "KAIN",
+    "nama": "KAIN ATASAN HW",
+    "warna": "Abu-abu",
+    "rincian": {
+      "PCS": 5
+    },
+    "harga_dasar": 76000,
+    "harga_min": 76000,
+    "harga_max": 76000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0077",
+    "kategori": "KAIN",
+    "nama": "KAIN MUH SAKINA BIRU",
+    "warna": "Abu-abu",
+    "rincian": {
+      "PCS": 1
+    },
+    "harga_dasar": 150000,
+    "harga_min": 160000,
+    "harga_max": 160000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0078",
+    "kategori": "KAIN",
+    "nama": "KAIN BAWAHAN HW",
+    "warna": "Abu-abu",
+    "rincian": {
+      "PCS": 5
+    },
+    "harga_dasar": 66000,
+    "harga_min": 76000,
+    "harga_max": 76000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0079",
+    "kategori": "ATRIBUT HW",
+    "nama": "HASDUK ATFAL",
+    "warna": "Krem",
+    "rincian": {
+      "ALL SIZE": 10
+    },
+    "harga_dasar": 12000,
+    "harga_min": 13000,
+    "harga_max": 13000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0080",
+    "kategori": "ATRIBUT HW",
+    "nama": "HW HASDUK PENGHELA",
+    "warna": "Abu-abu",
+    "rincian": {
+      "ALL SIZE": 8
+    },
+    "harga_dasar": 14000,
+    "harga_min": 15000,
+    "harga_max": 15000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0081",
+    "kategori": "ATRIBUT HW",
+    "nama": "HW HASDUK PENGENAL",
+    "warna": "Krem",
+    "rincian": {
+      "ALL SIZE": 10
+    },
+    "harga_dasar": 14000,
+    "harga_min": 15000,
+    "harga_max": 15000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0082",
+    "kategori": "ATRIBUT HW",
+    "nama": "BENDERA DIKDASMEN SBL",
+    "warna": "Abu-abu",
+    "rincian": {
+      "ALL SIZE": 5
+    },
+    "harga_dasar": 34000,
+    "harga_min": 35000,
+    "harga_max": 35000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0083",
+    "kategori": "ATRIBUT HW",
+    "nama": "KERUDUNG SEGIEMPAT NA",
+    "warna": "Abu-abu",
+    "rincian": {
+      "ALL SIZE": 9
+    },
+    "harga_dasar": 30000,
+    "harga_min": 34000,
+    "harga_max": 34000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0084",
+    "kategori": "ATRIBUT HW",
+    "nama": "BENDERA HW GARIS KUNING",
+    "warna": "Abu-abu",
+    "rincian": {
+      "ALL SIZE": 3
+    },
+    "harga_dasar": 35000,
+    "harga_min": 40000,
+    "harga_max": 40000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0085",
+    "kategori": "ATRIBUT HW",
+    "nama": "BENDERA IMM SBL",
+    "warna": "Abu-abu",
+    "rincian": {
+      "ALL SIZE": 3
+    },
+    "harga_dasar": 30000,
+    "harga_min": 37000,
+    "harga_max": 37000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0086",
+    "kategori": "ATRIBUT HW",
+    "nama": "BENDERA TAPAK SUCI SBL",
+    "warna": "Abu-abu",
+    "rincian": {
+      "ALL SIZE": 5
+    },
+    "harga_dasar": 35000,
+    "harga_min": 37000,
+    "harga_max": 37000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0087",
+    "kategori": "ATRIBUT HW",
+    "nama": "BENDERA NA SBL",
+    "warna": "Abu-abu",
+    "rincian": {
+      "ALL SIZE": 4
+    },
+    "harga_dasar": 30000,
+    "harga_min": 35000,
+    "harga_max": 35000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0088",
+    "kategori": "ATRIBUT HW",
+    "nama": "BENDERA HW SBL",
+    "warna": "Abu-abu",
+    "rincian": {
+      "ALL SIZE": 2
+    },
+    "harga_dasar": 30000,
+    "harga_min": 35000,
+    "harga_max": 35000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0089",
+    "kategori": "ATRIBUT HW",
+    "nama": "BENDERA IPM",
+    "warna": "Abu-abu",
+    "rincian": {
+      "ALL SIZE": 2
+    },
+    "harga_dasar": 30000,
+    "harga_min": 37000,
+    "harga_max": 37000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0090",
+    "kategori": "ATRIBUT HW",
+    "nama": "BENDERA AISY SBL",
+    "warna": "Abu-abu",
+    "rincian": {
+      "ALL SIZE": 5
+    },
+    "harga_dasar": 30000,
+    "harga_min": 35000,
+    "harga_max": 35000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0091",
+    "kategori": "BAJU",
+    "nama": "JAKET PEMUDA",
+    "warna": "Abu-abu",
+    "rincian": {
+      "M": 2,
+      "L": 2,
+      "XL": 1
+    },
+    "harga_dasar": 300000,
+    "harga_min": 300000,
+    "harga_max": 325000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0092",
+    "kategori": "BAJU",
+    "nama": "JAS PEMUDA",
+    "warna": "Abu-abu",
+    "rincian": {
+      "L": 1,
+      "XL": 1
+    },
+    "harga_dasar": 150000,
+    "harga_min": 165000,
+    "harga_max": 165000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0093",
+    "kategori": "BAJU",
+    "nama": "JAS MUH SUP",
+    "warna": "Coklat",
+    "rincian": {
+      "XL": 1
+    },
+    "harga_dasar": 300000,
+    "harga_min": 325000,
+    "harga_max": 325000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0094",
+    "kategori": "ATRIBUT HW",
+    "nama": "JAS IPM",
+    "warna": "Abu-abu",
+    "rincian": {
+      "ALL SIZE": 1
+    },
+    "harga_dasar": 150000,
+    "harga_min": 165000,
+    "harga_max": 165000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0095",
+    "kategori": "ATRIBUT HW",
+    "nama": "ROMPI LAZISMU",
+    "warna": "Coklat",
+    "rincian": {
+      "ALL SIZE": 1
+    },
+    "harga_dasar": 130000,
+    "harga_min": 135000,
+    "harga_max": 135000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0096",
+    "kategori": "ATRIBUT HW",
+    "nama": "ROMPI MUH",
+    "warna": "Coklat",
+    "rincian": {
+      "ALL SIZE": 1
+    },
+    "harga_dasar": 130000,
+    "harga_min": 140000,
+    "harga_max": 140000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0097",
+    "kategori": "ATRIBUT HW",
+    "nama": "ROMPI PEMUDA",
+    "warna": "Abu-abu",
+    "rincian": {
+      "ALL SIZE": 1
+    },
+    "harga_dasar": 110000,
+    "harga_min": 120000,
+    "harga_max": 120000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0098",
+    "kategori": "ATRIBUT HW",
+    "nama": "HW CELANA PEMBINA",
+    "warna": "Abu-abu",
+    "rincian": {
+      "ALL SIZE": 1
+    },
+    "harga_dasar": 120000,
+    "harga_min": 120000,
+    "harga_max": 120000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0099",
+    "kategori": "SARUNG",
+    "nama": "SARUNG MUH 2021",
+    "warna": "Abu-abu",
+    "rincian": {
+      "ALL SIZE": 2,
+      "JUMBO": 0
+    },
+    "harga_dasar": 90000,
+    "harga_min": 90000,
+    "harga_max": 98000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0100",
+    "kategori": "SARUNG",
+    "nama": "SARUNG MUH 2023",
+    "warna": "Abu-abu",
+    "rincian": {
+      "ALL SIZE": 3,
+      "JUMBO": 0
+    },
+    "harga_dasar": 90000,
+    "harga_min": 90000,
+    "harga_max": 100000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0101",
+    "kategori": "ATRIBUT HW",
+    "nama": "SONGKOK POLOS NEW",
+    "warna": "Biru",
+    "rincian": {
+      "ALL SIZE": 2
+    },
+    "harga_dasar": 60000,
+    "harga_min": 70000,
+    "harga_max": 70000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0102",
+    "kategori": "ATRIBUT HW",
+    "nama": "SONGKOK FGM BORDIR",
+    "warna": "Abu-abu",
+    "rincian": {
+      "ALL SIZE": 2
+    },
+    "harga_dasar": 90000,
+    "harga_min": 95000,
+    "harga_max": 95000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0103",
+    "kategori": "ATRIBUT HW",
+    "nama": "SONGKOK PEMUDA BORDIR",
+    "warna": "Biru",
+    "rincian": {
+      "ALL SIZE": 3
+    },
+    "harga_dasar": 90000,
+    "harga_min": 95000,
+    "harga_max": 95000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0104",
+    "kategori": "ATRIBUT HW",
+    "nama": "SONGKOK ANAK BORDIR",
+    "warna": "Biru",
+    "rincian": {
+      "ALL SIZE": 2
+    },
+    "harga_dasar": 60000,
+    "harga_min": 70000,
+    "harga_max": 70000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0105",
+    "kategori": "ATRIBUT HW",
+    "nama": "SONGKOK MUH BORDIR",
+    "warna": "Coklat",
+    "rincian": {
+      "ALL SIZE": 1
+    },
+    "harga_dasar": 90000,
+    "harga_min": 95000,
+    "harga_max": 95000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0106",
+    "kategori": "BUKU",
+    "nama": "REFORMISME ISLAM DI NUSANTARA",
+    "warna": "Abu-abu",
+    "rincian": {
+      "PCS": 2
+    },
+    "harga_dasar": 30000,
+    "harga_min": 40000,
+    "harga_max": 40000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0107",
+    "kategori": "BUKU",
+    "nama": "IDEOLOGI PENDIDIKAN MUHAMMADIYAH DAN PERUBAHAN SOSIAL",
+    "warna": "Abu-abu",
+    "rincian": {
+      "PCS": 2
+    },
+    "harga_dasar": 110000,
+    "harga_min": 110000,
+    "harga_max": 110000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0108",
+    "kategori": "BUKU",
+    "nama": "JIHAD KEWIRAUSAHAAN MENOLONG DIRI DAN UMAT",
+    "warna": "Abu-abu",
+    "rincian": {
+      "PCS": 2
+    },
+    "harga_dasar": 40000,
+    "harga_min": 45000,
+    "harga_max": 45000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0109",
+    "kategori": "BUKU",
+    "nama": "BUYA TOU (KHATIB KAYO) DARI PERGAULAN IDEOLOGI",
+    "warna": "Abu-abu",
+    "rincian": {
+      "PCS": 2
+    },
+    "harga_dasar": 30000,
+    "harga_min": 32000,
+    "harga_max": 32000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0110",
+    "kategori": "BUKU",
+    "nama": "SEJARAH KAUMAN",
+    "warna": "Abu-abu",
+    "rincian": {
+      "PCS": 2
+    },
+    "harga_dasar": 30000,
+    "harga_min": 36000,
+    "harga_max": 36000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0111",
+    "kategori": "BUKU",
+    "nama": "REMAIGINING MUHAMMADIYAH",
+    "warna": "Abu-abu",
+    "rincian": {
+      "PCS": 2
+    },
+    "harga_dasar": 50000,
+    "harga_min": 55000,
+    "harga_max": 55000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0112",
+    "kategori": "BUKU",
+    "nama": "INTEGRASI STUDI ISLAM, SAINS, DAN SOSIAL HUMANIORA",
+    "warna": "Abu-abu",
+    "rincian": {
+      "PCS": 2
+    },
+    "harga_dasar": 70000,
+    "harga_min": 73000,
+    "harga_max": 73000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0113",
+    "kategori": "BUKU",
+    "nama": "TAK LELAH MENGGEMBIRAKAN",
+    "warna": "Abu-abu",
+    "rincian": {
+      "PCS": 2
+    },
+    "harga_dasar": 50000,
+    "harga_min": 55000,
+    "harga_max": 55000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0114",
+    "kategori": "BUKU",
+    "nama": "AYAT-AYAT PEMBELAJARAN DALAM AL-QURAN",
+    "warna": "Abu-abu",
+    "rincian": {
+      "PCS": 2
+    },
+    "harga_dasar": 100000,
+    "harga_min": 110000,
+    "harga_max": 110000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0115",
+    "kategori": "BUKU",
+    "nama": "81 TAHUN ABDUL MALIK",
+    "warna": "Abu-abu",
+    "rincian": {
+      "PCS": 2
+    },
+    "harga_dasar": 60000,
+    "harga_min": 60000,
+    "harga_max": 60000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0116",
+    "kategori": "BUKU",
+    "nama": "REVOLUSI PRILAKU KEAGAMAAN",
+    "warna": "Abu-abu",
+    "rincian": {
+      "PCS": 2
+    },
+    "harga_dasar": 80000,
+    "harga_min": 85000,
+    "harga_max": 85000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0117",
+    "kategori": "BUKU",
+    "nama": "BULAN SARIT TERBIT DI ATAS POHON BERINGIN",
+    "warna": "Abu-abu",
+    "rincian": {
+      "PCS": 2
+    },
+    "harga_dasar": 140000,
+    "harga_min": 144000,
+    "harga_max": 144000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0118",
+    "kategori": "BUKU",
+    "nama": "HISAB BLN KAMARIAH",
+    "warna": "Abu-abu",
+    "rincian": {
+      "PCS": 2
+    },
+    "harga_dasar": 20000,
+    "harga_min": 25000,
+    "harga_max": 25000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0119",
+    "kategori": "BUKU",
+    "nama": "LEBIH DEKAT DENGAN KHA DAHLAN",
+    "warna": "Abu-abu",
+    "rincian": {
+      "PCS": 2
+    },
+    "harga_dasar": 40000,
+    "harga_min": 43000,
+    "harga_max": 43000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0120",
+    "kategori": "BUKU",
+    "nama": "PENDIDIKAN BUDI",
+    "warna": "Coklat",
+    "rincian": {
+      "PCS": 2
+    },
+    "harga_dasar": 130000,
+    "harga_min": 138000,
+    "harga_max": 138000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0121",
+    "kategori": "BUKU",
+    "nama": "SEJARAH SEABAD SM",
+    "warna": "Abu-abu",
+    "rincian": {
+      "PCS": 2
+    },
+    "harga_dasar": 80000,
+    "harga_min": 85000,
+    "harga_max": 85000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0122",
+    "kategori": "BUKU",
+    "nama": "SEJARAH SEABAD SM JILID 2",
+    "warna": "Abu-abu",
+    "rincian": {
+      "PCS": 2
+    },
+    "harga_dasar": 80000,
+    "harga_min": 85000,
+    "harga_max": 85000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0123",
+    "kategori": "BUKU",
+    "nama": "TJA JILID 5",
+    "warna": "Abu-abu",
+    "rincian": {
+      "PCS": 2
+    },
+    "harga_dasar": 50000,
+    "harga_min": 51000,
+    "harga_max": 51000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0124",
+    "kategori": "BUKU",
+    "nama": "MENGENAL SANG SURYA DI BUMI FORMOSA",
+    "warna": "Abu-abu",
+    "rincian": {
+      "PCS": 2
+    },
+    "harga_dasar": 30000,
+    "harga_min": 40000,
+    "harga_max": 40000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0125",
+    "kategori": "BUKU",
+    "nama": "AGENDA MUH",
+    "warna": "Abu-abu",
+    "rincian": {
+      "PCS": 2
+    },
+    "harga_dasar": 30000,
+    "harga_min": 35000,
+    "harga_max": 35000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0126",
+    "kategori": "BUKU",
+    "nama": "HAMKA & ISLAM",
+    "warna": "Abu-abu",
+    "rincian": {
+      "PCS": 2
+    },
+    "harga_dasar": 80000,
+    "harga_min": 90000,
+    "harga_max": 90000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0127",
+    "kategori": "BUKU",
+    "nama": "ANTHROPOLOGY OG THE ARABS",
+    "warna": "Abu-abu",
+    "rincian": {
+      "PCS": 2
+    },
+    "harga_dasar": 90000,
+    "harga_min": 100000,
+    "harga_max": 100000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0128",
+    "kategori": "BUKU",
+    "nama": "PEREMPUAN-PEREMPUAN PEMVURU SURGA",
+    "warna": "Abu-abu",
+    "rincian": {
+      "PCS": 2
+    },
+    "harga_dasar": 50000,
+    "harga_min": 55000,
+    "harga_max": 55000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0129",
+    "kategori": "BUKU",
+    "nama": "PENGGULAN KEMAJUAN",
+    "warna": "Abu-abu",
+    "rincian": {
+      "PCS": 2
+    },
+    "harga_dasar": 80000,
+    "harga_min": 90000,
+    "harga_max": 90000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0130",
+    "kategori": "BUKU",
+    "nama": "MELAYANI UMAT FILANTROPI ISLAM",
+    "warna": "Abu-abu",
+    "rincian": {
+      "PCS": 2
+    },
+    "harga_dasar": 60000,
+    "harga_min": 70000,
+    "harga_max": 70000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0131",
+    "kategori": "BUKU",
+    "nama": "SMK BUMIKAN GOTONG ROYONG",
+    "warna": "Abu-abu",
+    "rincian": {
+      "PCS": 2
+    },
+    "harga_dasar": 80000,
+    "harga_min": 90000,
+    "harga_max": 90000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0132",
+    "kategori": "BUKU",
+    "nama": "INTERKONEKSI STUDI",
+    "warna": "Abu-abu",
+    "rincian": {
+      "PCS": 2
+    },
+    "harga_dasar": 50000,
+    "harga_min": 54000,
+    "harga_max": 54000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0133",
+    "kategori": "BUKU",
+    "nama": "AMIEN RAIS",
+    "warna": "Abu-abu",
+    "rincian": {
+      "PCS": 2
+    },
+    "harga_dasar": 40000,
+    "harga_min": 49000,
+    "harga_max": 49000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0134",
+    "kategori": "BUKU",
+    "nama": "PARADIGMA PENDIDIKAN VERKEMAJUAN",
+    "warna": "Abu-abu",
+    "rincian": {
+      "PCS": 2
+    },
+    "harga_dasar": 100000,
+    "harga_min": 105000,
+    "harga_max": 105000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0135",
+    "kategori": "BUKU",
+    "nama": "TAFSIR AT TANWIR JILID 1",
+    "warna": "Abu-abu",
+    "rincian": {
+      "PCS": 2
+    },
+    "harga_dasar": 100000,
+    "harga_min": 110000,
+    "harga_max": 110000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0136",
+    "kategori": "BUKU",
+    "nama": "SMK POLITIK MUH MASYUMI",
+    "warna": "Abu-abu",
+    "rincian": {
+      "PCS": 2
+    },
+    "harga_dasar": 90000,
+    "harga_min": 100000,
+    "harga_max": 100000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0137",
+    "kategori": "BUKU",
+    "nama": "MUH ABAD KEDUA",
+    "warna": "Abu-abu",
+    "rincian": {
+      "PCS": 3
+    },
+    "harga_dasar": 65000,
+    "harga_min": 65000,
+    "harga_max": 65000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0138",
+    "kategori": "BUKU",
+    "nama": "TUNTUNAN MENUJU KELUARGA SAKINAH",
+    "warna": "Abu-abu",
+    "rincian": {
+      "PCS": 2
+    },
+    "harga_dasar": 40000,
+    "harga_min": 45000,
+    "harga_max": 45000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0139",
+    "kategori": "BUKU",
+    "nama": "MENCARI NEGARAWAN",
+    "warna": "Abu-abu",
+    "rincian": {
+      "PCS": 2
+    },
+    "harga_dasar": 90000,
+    "harga_min": 100000,
+    "harga_max": 100000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0140",
+    "kategori": "BUKU",
+    "nama": "UTAMA PENDUAN DAKWAH AUKM",
+    "warna": "Abu-abu",
+    "rincian": {
+      "PCS": 2
+    },
+    "harga_dasar": 40000,
+    "harga_min": 41000,
+    "harga_max": 41000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0141",
+    "kategori": "BUKU",
+    "nama": "RANAH GURINDAM DALAM SOROTAN",
+    "warna": "Abu-abu",
+    "rincian": {
+      "PCS": 2
+    },
+    "harga_dasar": 50000,
+    "harga_min": 60000,
+    "harga_max": 60000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0142",
+    "kategori": "BUKU",
+    "nama": "TJA JILID 8",
+    "warna": "Abu-abu",
+    "rincian": {
+      "PCS": 2
+    },
+    "harga_dasar": 40000,
+    "harga_min": 43000,
+    "harga_max": 43000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0143",
+    "kategori": "BUKU",
+    "nama": "TJA JILID 6",
+    "warna": "Abu-abu",
+    "rincian": {
+      "PCS": 2
+    },
+    "harga_dasar": 40000,
+    "harga_min": 42000,
+    "harga_max": 42000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0144",
+    "kategori": "BUKU",
+    "nama": "BUYA SEORANG JURNALIS",
+    "warna": "Abu-abu",
+    "rincian": {
+      "PCS": 2
+    },
+    "harga_dasar": 60000,
+    "harga_min": 71000,
+    "harga_max": 71000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0145",
+    "kategori": "BUKU",
+    "nama": "ISLAM YANG BERPIHAK",
+    "warna": "Abu-abu",
+    "rincian": {
+      "PCS": 2
+    },
+    "harga_dasar": 50000,
+    "harga_min": 60000,
+    "harga_max": 60000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0146",
+    "kategori": "BUKU",
+    "nama": "MEMBENDUNG ARUS",
+    "warna": "Abu-abu",
+    "rincian": {
+      "PCS": 2
+    },
+    "harga_dasar": 90000,
+    "harga_min": 95000,
+    "harga_max": 95000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0147",
+    "kategori": "BUKU",
+    "nama": "JEJAK FILSAFAT PENGD MUH",
+    "warna": "Abu-abu",
+    "rincian": {
+      "PCS": 2
+    },
+    "harga_dasar": 70000,
+    "harga_min": 80000,
+    "harga_max": 80000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0148",
+    "kategori": "BUKU",
+    "nama": "BINTANG DARI ARGASOKA",
+    "warna": "Abu-abu",
+    "rincian": {
+      "PCS": 2
+    },
+    "harga_dasar": 70000,
+    "harga_min": 75000,
+    "harga_max": 75000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0149",
+    "kategori": "BUKU",
+    "nama": "MUH DAN ORANG” YANG BERSAHAJA",
+    "warna": "Abu-abu",
+    "rincian": {
+      "PCS": 2
+    },
+    "harga_dasar": 100000,
+    "harga_min": 110000,
+    "harga_max": 110000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0150",
+    "kategori": "BUKU",
+    "nama": "IDEOLOGI KAUM REFORMIS",
+    "warna": "Abu-abu",
+    "rincian": {
+      "PCS": 2
+    },
+    "harga_dasar": 80000,
+    "harga_min": 90000,
+    "harga_max": 90000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0151",
+    "kategori": "BUKU",
+    "nama": "MUH MENCERAHKAN UMAT",
+    "warna": "Abu-abu",
+    "rincian": {
+      "PCS": 2
+    },
+    "harga_dasar": 50000,
+    "harga_min": 53000,
+    "harga_max": 53000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0152",
+    "kategori": "BUKU",
+    "nama": "MANAJEMEN DAKWAH MUH",
+    "warna": "Abu-abu",
+    "rincian": {
+      "PCS": 2
+    },
+    "harga_dasar": 60000,
+    "harga_min": 68000,
+    "harga_max": 68000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0153",
+    "kategori": "BUKU",
+    "nama": "FRESH IJTIHAD",
+    "warna": "Abu-abu",
+    "rincian": {
+      "PCS": 1
+    },
+    "harga_dasar": 80000,
+    "harga_min": 80000,
+    "harga_max": 80000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0154",
+    "kategori": "BUKU",
+    "nama": "PARMUSI PERGULATAN MUH DALAM PARTAI POLITIK",
+    "warna": "Abu-abu",
+    "rincian": {
+      "PCS": 2
+    },
+    "harga_dasar": 60000,
+    "harga_min": 70000,
+    "harga_max": 70000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0155",
+    "kategori": "BUKU",
+    "nama": "BIOGRAFI PAK AR",
+    "warna": "Coklat",
+    "rincian": {
+      "PCS": 2
+    },
+    "harga_dasar": 65000,
+    "harga_min": 75000,
+    "harga_max": 75000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0156",
+    "kategori": "BUKU",
+    "nama": "MENTJETAK KIJAHI KEMADJOEAN",
+    "warna": "Abu-abu",
+    "rincian": {
+      "PCS": 2
+    },
+    "harga_dasar": 60000,
+    "harga_min": 70000,
+    "harga_max": 70000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0157",
+    "kategori": "BUKU",
+    "nama": "SOAL JAWAB TANG RINGAN",
+    "warna": "Abu-abu",
+    "rincian": {
+      "PCS": 2
+    },
+    "harga_dasar": 70000,
+    "harga_min": 73000,
+    "harga_max": 73000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0158",
+    "kategori": "BUKU",
+    "nama": "KAPITA SELEKTA PENGANTAR DAKWAH",
+    "warna": "Abu-abu",
+    "rincian": {
+      "PCS": 2
+    },
+    "harga_dasar": 30000,
+    "harga_min": 32000,
+    "harga_max": 32000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0159",
+    "kategori": "BUKU",
+    "nama": "DJARNAWU HADIJYSUMA",
+    "warna": "Abu-abu",
+    "rincian": {
+      "PCS": 2
+    },
+    "harga_dasar": 20000,
+    "harga_min": 30000,
+    "harga_max": 30000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0160",
+    "kategori": "BUKU",
+    "nama": "FENOMENOLOGI ISLAM",
+    "warna": "Abu-abu",
+    "rincian": {
+      "PCS": 2
+    },
+    "harga_dasar": 80000,
+    "harga_min": 90000,
+    "harga_max": 90000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0161",
+    "kategori": "BUKU",
+    "nama": "POSISI & JATIDIRI AISIYAH",
+    "warna": "Abu-abu",
+    "rincian": {
+      "PCS": 2
+    },
+    "harga_dasar": 30000,
+    "harga_min": 38000,
+    "harga_max": 38000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0162",
+    "kategori": "BUKU",
+    "nama": "PANDUAN KLINIK MUH",
+    "warna": "Abu-abu",
+    "rincian": {
+      "PCS": 2
+    },
+    "harga_dasar": 40000,
+    "harga_min": 41000,
+    "harga_max": 41000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0163",
+    "kategori": "BUKU",
+    "nama": "POLITIK PERDA SYARIAT",
+    "warna": "Abu-abu",
+    "rincian": {
+      "PCS": 2
+    },
+    "harga_dasar": 70000,
+    "harga_min": 75000,
+    "harga_max": 75000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0164",
+    "kategori": "BUKU",
+    "nama": "KESETARAAN GENDER DALAM AL QURAN",
+    "warna": "Abu-abu",
+    "rincian": {
+      "PCS": 2
+    },
+    "harga_dasar": 80000,
+    "harga_min": 85000,
+    "harga_max": 85000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0165",
+    "kategori": "BUKU",
+    "nama": "MUH POTRET YANG BERUBAH",
+    "warna": "Abu-abu",
+    "rincian": {
+      "PCS": 2
+    },
+    "harga_dasar": 110000,
+    "harga_min": 120000,
+    "harga_max": 120000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0166",
+    "kategori": "BUKU",
+    "nama": "ETIKA MUH DAN SPIRIT PERADABAN",
+    "warna": "Abu-abu",
+    "rincian": {
+      "PCS": 2
+    },
+    "harga_dasar": 100000,
+    "harga_min": 110000,
+    "harga_max": 110000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0167",
+    "kategori": "BUKU",
+    "nama": "FILSAFAT PENDIDIKAN ISLAM",
+    "warna": "Abu-abu",
+    "rincian": {
+      "PCS": 2
+    },
+    "harga_dasar": 120000,
+    "harga_min": 125000,
+    "harga_max": 125000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0168",
+    "kategori": "BUKU",
+    "nama": "KISAH NABI IBRAHIM",
+    "warna": "Abu-abu",
+    "rincian": {
+      "PCS": 1
+    },
+    "harga_dasar": 20000,
+    "harga_min": 27000,
+    "harga_max": 27000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0169",
+    "kategori": "BUKU",
+    "nama": "KISAH NABI MUSA",
+    "warna": "Abu-abu",
+    "rincian": {
+      "PCS": 1
+    },
+    "harga_dasar": 20000,
+    "harga_min": 27000,
+    "harga_max": 27000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0170",
+    "kategori": "BUKU",
+    "nama": "KOSMOPOLITANISME",
+    "warna": "Abu-abu",
+    "rincian": {
+      "PCS": 2
+    },
+    "harga_dasar": 90000,
+    "harga_min": 95000,
+    "harga_max": 95000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0171",
+    "kategori": "BUKU",
+    "nama": "TUNTUNANA IDAIN DAN QURBAN",
+    "warna": "Abu-abu",
+    "rincian": {
+      "PCS": 2
+    },
+    "harga_dasar": 20000,
+    "harga_min": 24000,
+    "harga_max": 24000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0172",
+    "kategori": "BUKU",
+    "nama": "PENYELENGGARAAN PENGAJIAN CABANG MUH",
+    "warna": "Coklat",
+    "rincian": {
+      "PCS": 2
+    },
+    "harga_dasar": 10000,
+    "harga_min": 14000,
+    "harga_max": 14000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0173",
+    "kategori": "BUKU",
+    "nama": "STRATEGI PENGGALANGAN DANA",
+    "warna": "Abu-abu",
+    "rincian": {
+      "PCS": 1
+    },
+    "harga_dasar": 10000,
+    "harga_min": 15000,
+    "harga_max": 15000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0174",
+    "kategori": "BUKU",
+    "nama": "KIAT DAN STRATEGI MEMAKMURKAN MASJID",
+    "warna": "Abu-abu",
+    "rincian": {
+      "PCS": 2
+    },
+    "harga_dasar": 20000,
+    "harga_min": 28000,
+    "harga_max": 28000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0175",
+    "kategori": "BUKU",
+    "nama": "MERAWAT JENAZAH",
+    "warna": "Abu-abu",
+    "rincian": {
+      "PCS": 1
+    },
+    "harga_dasar": 15000,
+    "harga_min": 21000,
+    "harga_max": 21000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0176",
+    "kategori": "BUKU",
+    "nama": "ISLAM AGAMA PENCERAHAN",
+    "warna": "Abu-abu",
+    "rincian": {
+      "PCS": 2
+    },
+    "harga_dasar": 30000,
+    "harga_min": 38000,
+    "harga_max": 38000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0177",
+    "kategori": "BUKU",
+    "nama": "NASEHAT PERKAWINAN",
+    "warna": "Abu-abu",
+    "rincian": {
+      "PCS": 1
+    },
+    "harga_dasar": 7000,
+    "harga_min": 12000,
+    "harga_max": 12000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0178",
+    "kategori": "BUKU",
+    "nama": "MUH SENI BUDAYA DAN OLAHRAGA",
+    "warna": "Abu-abu",
+    "rincian": {
+      "PCS": 2
+    },
+    "harga_dasar": 40000,
+    "harga_min": 45000,
+    "harga_max": 45000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0179",
+    "kategori": "BUKU",
+    "nama": "KLINIK DAKWAH",
+    "warna": "Abu-abu",
+    "rincian": {
+      "PCS": 1
+    },
+    "harga_dasar": 5000,
+    "harga_min": 10000,
+    "harga_max": 10000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0180",
+    "kategori": "BUKU",
+    "nama": "Agenda Haji",
+    "warna": "Abu-abu",
+    "rincian": {
+      "PCS": 1
+    },
+    "harga_dasar": 30000,
+    "harga_min": 35000,
+    "harga_max": 35000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0181",
+    "kategori": "BUKU",
+    "nama": "MENGGERAKKAN GJDJ",
+    "warna": "Abu-abu",
+    "rincian": {
+      "PCS": 1
+    },
+    "harga_dasar": 10000,
+    "harga_min": 15000,
+    "harga_max": 15000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0182",
+    "kategori": "BUKU",
+    "nama": "TEOLOGI PEMBARUAN PERGESERAN WACANA ISLAM SUNNI",
+    "warna": "Abu-abu",
+    "rincian": {
+      "PCS": 1
+    },
+    "harga_dasar": 110000,
+    "harga_min": 120000,
+    "harga_max": 120000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0183",
+    "kategori": "BUKU",
+    "nama": "SALAT TARAWIH",
+    "warna": "Abu-abu",
+    "rincian": {
+      "PCS": 1
+    },
+    "harga_dasar": 70000,
+    "harga_min": 80000,
+    "harga_max": 80000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0184",
+    "kategori": "BUKU",
+    "nama": "FILSUF MEMBUMI DAN MENCERAHKAN",
+    "warna": "Abu-abu",
+    "rincian": {
+      "PCS": 1
+    },
+    "harga_dasar": 210000,
+    "harga_min": 230000,
+    "harga_max": 230000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0185",
+    "kategori": "BUKU",
+    "nama": "AL-QUR’AN UNTUK TUHAN ATAU UNTUK MANUSIA",
+    "warna": "Abu-abu",
+    "rincian": {
+      "PCS": 1
+    },
+    "harga_dasar": 80000,
+    "harga_min": 89000,
+    "harga_max": 89000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0186",
+    "kategori": "BUKU",
+    "nama": "SEKOLAH DAN POLITIK",
+    "warna": "Abu-abu",
+    "rincian": {
+      "PCS": 1
+    },
+    "harga_dasar": 90000,
+    "harga_min": 100000,
+    "harga_max": 100000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0187",
+    "kategori": "BUKU",
+    "nama": "BERBUAT BAIKLAH",
+    "warna": "Abu-abu",
+    "rincian": {
+      "PCS": 1
+    },
+    "harga_dasar": 35000,
+    "harga_min": 45000,
+    "harga_max": 45000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0188",
+    "kategori": "BUKU",
+    "nama": "KULIAH AQIDAH ISLAM",
+    "warna": "Abu-abu",
+    "rincian": {
+      "PCS": 1
+    },
+    "harga_dasar": 30000,
+    "harga_min": 40000,
+    "harga_max": 40000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0189",
+    "kategori": "BUKU",
+    "nama": "KULIAH AKHLAQ",
+    "warna": "Abu-abu",
+    "rincian": {
+      "PCS": 1
+    },
+    "harga_dasar": 50000,
+    "harga_min": 50000,
+    "harga_max": 50000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0190",
+    "kategori": "BUKU",
+    "nama": "PEDOMAN HIDUP ISLAMI",
+    "warna": "Abu-abu",
+    "rincian": {
+      "PCS": 1
+    },
+    "harga_dasar": 15000,
+    "harga_min": 24000,
+    "harga_max": 24000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0191",
+    "kategori": "BUKU",
+    "nama": "GERAKAN PENGAJIAN MUHAMMADIYAH",
+    "warna": "Abu-abu",
+    "rincian": {
+      "PCS": 1
+    },
+    "harga_dasar": 10000,
+    "harga_min": 14000,
+    "harga_max": 14000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0192",
+    "kategori": "BUKU",
+    "nama": "JARING KEARIFAN BAHAGIA",
+    "warna": "Abu-abu",
+    "rincian": {
+      "PCS": 1
+    },
+    "harga_dasar": 30000,
+    "harga_min": 35000,
+    "harga_max": 35000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0193",
+    "kategori": "BUKU",
+    "nama": "CARA SHALAT",
+    "warna": "Abu-abu",
+    "rincian": {
+      "PCS": 1
+    },
+    "harga_dasar": 25000,
+    "harga_min": 31000,
+    "harga_max": 31000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0194",
+    "kategori": "BUKU",
+    "nama": "WACANA ISLAM PROGRESIF",
+    "warna": "Abu-abu",
+    "rincian": {
+      "PCS": 1
+    },
+    "harga_dasar": 100000,
+    "harga_min": 105000,
+    "harga_max": 105000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0195",
+    "kategori": "BUKU",
+    "nama": "TUNTUNAN IBADAH BLN DZUL",
+    "warna": "Abu-abu",
+    "rincian": {
+      "PCS": 1
+    },
+    "harga_dasar": 5000,
+    "harga_min": 11000,
+    "harga_max": 11000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0196",
+    "kategori": "BUKU",
+    "nama": "MUH WAWASAN & KOMITMEN",
+    "warna": "Abu-abu",
+    "rincian": {
+      "PCS": 1
+    },
+    "harga_dasar": 80000,
+    "harga_min": 85000,
+    "harga_max": 85000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0197",
+    "kategori": "BUKU",
+    "nama": "SHALAT2 TATHAWWU",
+    "warna": "Abu-abu",
+    "rincian": {
+      "PCS": 1
+    },
+    "harga_dasar": 15000,
+    "harga_min": 21000,
+    "harga_max": 21000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0198",
+    "kategori": "BUKU",
+    "nama": "STUDI ULANG ILMU JILID 1",
+    "warna": "Abu-abu",
+    "rincian": {
+      "PCS": 1
+    },
+    "harga_dasar": 50000,
+    "harga_min": 54000,
+    "harga_max": 54000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0199",
+    "kategori": "BUKU",
+    "nama": "CARA BERWUDHU",
+    "warna": "Abu-abu",
+    "rincian": {
+      "PCS": 1
+    },
+    "harga_dasar": 15000,
+    "harga_min": 20000,
+    "harga_max": 20000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0200",
+    "kategori": "BUKU",
+    "nama": "IJTIHAD KONTEMPORER MUH",
+    "warna": "Abu-abu",
+    "rincian": {
+      "PCS": 1
+    },
+    "harga_dasar": 50000,
+    "harga_min": 60000,
+    "harga_max": 60000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0201",
+    "kategori": "BUKU",
+    "nama": "BENEDETTO CROCE",
+    "warna": "Coklat",
+    "rincian": {
+      "PCS": 1
+    },
+    "harga_dasar": 5000,
+    "harga_min": 11000,
+    "harga_max": 11000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0202",
+    "kategori": "BUKU",
+    "nama": "MUH JAWAB",
+    "warna": "Abu-abu",
+    "rincian": {
+      "PCS": 1
+    },
+    "harga_dasar": 40000,
+    "harga_min": 45000,
+    "harga_max": 45000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0203",
+    "kategori": "BUKU",
+    "nama": "KHUTBAH JUMAT 3",
+    "warna": "Abu-abu",
+    "rincian": {
+      "PCS": 1
+    },
+    "harga_dasar": 30000,
+    "harga_min": 34900,
+    "harga_max": 34900,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0204",
+    "kategori": "BUKU",
+    "nama": "TOKOH ANTAGONIS DALAM KISAH AL-QUR’AN",
+    "warna": "Abu-abu",
+    "rincian": {
+      "PCS": 2
+    },
+    "harga_dasar": 85000,
+    "harga_min": 85000,
+    "harga_max": 85000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0205",
+    "kategori": "BUKU",
+    "nama": "PENGELOLAAN ADMINISTRASI DAN KEUANGAN",
+    "warna": "Abu-abu",
+    "rincian": {
+      "PCS": 1
+    },
+    "harga_dasar": 8000,
+    "harga_min": 13000,
+    "harga_max": 13000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0206",
+    "kategori": "BUKU",
+    "nama": "DARI TEKS MENUJU KONTEKS",
+    "warna": "Abu-abu",
+    "rincian": {
+      "PCS": 1
+    },
+    "harga_dasar": 60000,
+    "harga_min": 65000,
+    "harga_max": 65000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0207",
+    "kategori": "BUKU",
+    "nama": "MUHAMMADIYAH GERAKAN PEMBARUAN",
+    "warna": "Abu-abu",
+    "rincian": {
+      "PCS": 2
+    },
+    "harga_dasar": 70000,
+    "harga_min": 82000,
+    "harga_max": 82000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0208",
+    "kategori": "BUKU",
+    "nama": "MANAJEMEN DAKWAH ISLAM",
+    "warna": "Abu-abu",
+    "rincian": {
+      "PCS": 1
+    },
+    "harga_dasar": 45000,
+    "harga_min": 50000,
+    "harga_max": 50000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0209",
+    "kategori": "BUKU",
+    "nama": "IBRAH KEHIDUPAN",
+    "warna": "Abu-abu",
+    "rincian": {
+      "PCS": 1
+    },
+    "harga_dasar": 50000,
+    "harga_min": 56500,
+    "harga_max": 56500,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0210",
+    "kategori": "BUKU",
+    "nama": "DINAMISASI GERAKAN MUHAMMADIYAH",
+    "warna": "Abu-abu",
+    "rincian": {
+      "PCS": 1
+    },
+    "harga_dasar": 45000,
+    "harga_min": 50000,
+    "harga_max": 50000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0211",
+    "kategori": "BUKU",
+    "nama": "MUHAMMADIYAH DAN HIDUP BERKEMAJUAN",
+    "warna": "Abu-abu",
+    "rincian": {
+      "PCS": 1
+    },
+    "harga_dasar": 60000,
+    "harga_min": 69000,
+    "harga_max": 69000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0212",
+    "kategori": "BUKU",
+    "nama": "BUYA SAFII BAGI KAMI",
+    "warna": "Abu-abu",
+    "rincian": {
+      "PCS": 1
+    },
+    "harga_dasar": 45000,
+    "harga_min": 49000,
+    "harga_max": 49000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0213",
+    "kategori": "BUKU",
+    "nama": "MUHAMMADIYAH PERSAMAAN DAN KEBERSAMAAN",
+    "warna": "Coklat",
+    "rincian": {
+      "PCS": 1
+    },
+    "harga_dasar": 30000,
+    "harga_min": 35000,
+    "harga_max": 35000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0214",
+    "kategori": "BUKU",
+    "nama": "STUDY ULANG ILMU JILD 2",
+    "warna": "Abu-abu",
+    "rincian": {
+      "PCS": 1
+    },
+    "harga_dasar": 50000,
+    "harga_min": 54000,
+    "harga_max": 54000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0215",
+    "kategori": "BUKU",
+    "nama": "MODERASI KEINDONESIAAN DALAM PENDIDIKAN ISLAM",
+    "warna": "Abu-abu",
+    "rincian": {
+      "PCS": 2
+    },
+    "harga_dasar": 69000,
+    "harga_min": 69000,
+    "harga_max": 69000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0216",
+    "kategori": "BUKU",
+    "nama": "MATAHARI” MUHAMMADIYAH",
+    "warna": "Abu-abu",
+    "rincian": {
+      "PCS": 1
+    },
+    "harga_dasar": 30000,
+    "harga_min": 35000,
+    "harga_max": 35000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0217",
+    "kategori": "BUKU",
+    "nama": "FIKIH AIR",
+    "warna": "Abu-abu",
+    "rincian": {
+      "PCS": 1
+    },
+    "harga_dasar": 30000,
+    "harga_min": 35000,
+    "harga_max": 35000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0218",
+    "kategori": "BUKU",
+    "nama": "15 KHUTBAH JUMAT DILIHAN",
+    "warna": "Abu-abu",
+    "rincian": {
+      "PCS": 1
+    },
+    "harga_dasar": 30000,
+    "harga_min": 35000,
+    "harga_max": 35000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0219",
+    "kategori": "BUKU",
+    "nama": "IJTIHAD KONTEMPORER MUHAMMADIYAH",
+    "warna": "Abu-abu",
+    "rincian": {
+      "PCS": 1
+    },
+    "harga_dasar": 50000,
+    "harga_min": 60000,
+    "harga_max": 60000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0220",
+    "kategori": "BUKU",
+    "nama": "TUNTUNAN DZIKIR DAN DOA",
+    "warna": "Abu-abu",
+    "rincian": {
+      "PCS": 1
+    },
+    "harga_dasar": 20000,
+    "harga_min": 25000,
+    "harga_max": 25000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0221",
+    "kategori": "BUKU",
+    "nama": "ANGGARAN DASAR AISIYAH",
+    "warna": "Hijau",
+    "rincian": {
+      "PCS": 2
+    },
+    "harga_dasar": 20000,
+    "harga_min": 22000,
+    "harga_max": 22000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0222",
+    "kategori": "BUKU",
+    "nama": "CATATAN BULAN SUCI",
+    "warna": "Coklat",
+    "rincian": {
+      "PCS": 2
+    },
+    "harga_dasar": 30000,
+    "harga_min": 35000,
+    "harga_max": 35000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0223",
+    "kategori": "BUKU",
+    "nama": "BENTENG MUHAMMADIYAH",
+    "warna": "Abu-abu",
+    "rincian": {
+      "PCS": 1
+    },
+    "harga_dasar": 55000,
+    "harga_min": 65000,
+    "harga_max": 65000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0224",
+    "kategori": "BUKU",
+    "nama": "MUH UNTUK SEMUA",
+    "warna": "Abu-abu",
+    "rincian": {
+      "PCS": 1
+    },
+    "harga_dasar": 40000,
+    "harga_min": 42000,
+    "harga_max": 42000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0225",
+    "kategori": "BUKU",
+    "nama": "MUHAMMADIYAH JAWA",
+    "warna": "Coklat",
+    "rincian": {
+      "PCS": 1
+    },
+    "harga_dasar": 40000,
+    "harga_min": 45000,
+    "harga_max": 45000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0226",
+    "kategori": "BUKU",
+    "nama": "ANGGARAN DASAR ANGGARAN RUMAH TABGGA MUHAMMADIYAH",
+    "warna": "Abu-abu",
+    "rincian": {
+      "PCS": 1
+    },
+    "harga_dasar": 20000,
+    "harga_min": 22000,
+    "harga_max": 22000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0227",
+    "kategori": "BUKU",
+    "nama": "KOKAM KESATUAN MUH",
+    "warna": "Abu-abu",
+    "rincian": {
+      "PCS": 1
+    },
+    "harga_dasar": 45000,
+    "harga_min": 50000,
+    "harga_max": 50000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0228",
+    "kategori": "BUKU",
+    "nama": "MODERNISASI PENDIDIKAN ISLAM",
+    "warna": "Abu-abu",
+    "rincian": {
+      "PCS": 1
+    },
+    "harga_dasar": 30000,
+    "harga_min": 35000,
+    "harga_max": 35000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0229",
+    "kategori": "BUKU",
+    "nama": "DILEMA PURIFIKASI MUHAMMADIYAH",
+    "warna": "Abu-abu",
+    "rincian": {
+      "PCS": 1
+    },
+    "harga_dasar": 80000,
+    "harga_min": 90000,
+    "harga_max": 90000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0230",
+    "kategori": "BUKU",
+    "nama": "INDONESIA DAN KEINDONESIAAN",
+    "warna": "Abu-abu",
+    "rincian": {
+      "PCS": 1
+    },
+    "harga_dasar": 90000,
+    "harga_min": 100000,
+    "harga_max": 100000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0231",
+    "kategori": "BUKU",
+    "nama": "INDONESIA RAYA",
+    "warna": "Pink",
+    "rincian": {
+      "PCS": 1
+    },
+    "harga_dasar": 75000,
+    "harga_min": 85000,
+    "harga_max": 85000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0232",
+    "kategori": "BUKU",
+    "nama": "AGAMA DEMOKRASI DAN POLITIK KEKERASAN",
+    "warna": "Abu-abu",
+    "rincian": {
+      "PCS": 1
+    },
+    "harga_dasar": 70000,
+    "harga_min": 75000,
+    "harga_max": 75000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0233",
+    "kategori": "BUKU",
+    "nama": "TEKSTUAL KONTEKSTUAL",
+    "warna": "Coklat",
+    "rincian": {
+      "PCS": 1
+    },
+    "harga_dasar": 30000,
+    "harga_min": 35000,
+    "harga_max": 35000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0234",
+    "kategori": "BUKU",
+    "nama": "TANYA JAWAB AGAMA 7",
+    "warna": "Abu-abu",
+    "rincian": {
+      "PCS": 1
+    },
+    "harga_dasar": 40000,
+    "harga_min": 46000,
+    "harga_max": 46000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0235",
+    "kategori": "BUKU",
+    "nama": "100 TOKOH MUH",
+    "warna": "Abu-abu",
+    "rincian": {
+      "PCS": 1
+    },
+    "harga_dasar": 140000,
+    "harga_min": 150000,
+    "harga_max": 150000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0236",
+    "kategori": "BUKU",
+    "nama": "TAFSIR AT TANWIR jilid 2",
+    "warna": "Coklat",
+    "rincian": {
+      "PCS": 1
+    },
+    "harga_dasar": 120000,
+    "harga_min": 129000,
+    "harga_max": 129000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0237",
+    "kategori": "BUKU",
+    "nama": "SANG PEMALU YANG MENJADI PERARUNG",
+    "warna": "Abu-abu",
+    "rincian": {
+      "PCS": 3
+    },
+    "harga_dasar": 70000,
+    "harga_min": 75000,
+    "harga_max": 75000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0238",
+    "kategori": "BUKU",
+    "nama": "PEMINPIN TRANSFORMASIONALBRRPIKIR OUT OF THE BOX",
+    "warna": "Abu-abu",
+    "rincian": {
+      "PCS": 3
+    },
+    "harga_dasar": 90000,
+    "harga_min": 100000,
+    "harga_max": 100000,
+    "tanggal": "2026-09-24"
+  },
+  {
+    "kode": "BRG-0239",
+    "kategori": "KAIN",
+    "nama": "KAIN BATIK AT-TANWIR",
+    "warna": "Coklat",
+    "rincian": {
+      "PCS": 50
+    },
+    "harga_dasar": 180000,
+    "harga_min": 190000,
+    "harga_max": 190000,
+    "tanggal": "2026-09-25"
+  },
+  {
+    "kode": "BRG-0240",
+    "kategori": "TOPI",
+    "nama": "TOPI KIKAM",
+    "warna": "Coklat",
+    "rincian": {
+      "ALL SIZE": 3,
+      "M": 0,
+      "L": 0,
+      "XL": 0
+    },
+    "harga_dasar": 30000,
+    "harga_min": 30000,
+    "harga_max": 35000,
+    "tanggal": "2026-09-29"
+  },
+  {
+    "kode": "BRG-0241",
+    "kategori": "TOPI",
+    "nama": "TOPI LAZIZMU",
+    "warna": "Coklat",
+    "rincian": {
+      "ALL SIZE": 3,
+      "M": 0,
+      "L": 0,
+      "XL": 0
+    },
+    "harga_dasar": 40000,
+    "harga_min": 40000,
+    "harga_max": 45000,
+    "tanggal": "2026-09-29"
+  },
+  {
+    "kode": "BRG-0242",
+    "kategori": "ATRIBUT HW",
+    "nama": "HW TOPI LAPANGAN",
+    "warna": "Coklat",
+    "rincian": {
+      "ALL SIZE": 1
+    },
+    "harga_dasar": 50000,
+    "harga_min": 65000,
+    "harga_max": 65000,
+    "tanggal": "2026-09-29"
+  },
+  {
+    "kode": "BRG-0243",
+    "kategori": "TOPI",
+    "nama": "TOPI MUHAMMADIYAH",
+    "warna": "Abu-abu",
+    "rincian": {
+      "ALL SIZE": 1,
+      "M": 0,
+      "L": 0,
+      "XL": 0
+    },
+    "harga_dasar": 40000,
+    "harga_min": 40000,
+    "harga_max": 45000,
+    "tanggal": "2026-09-29"
+  },
+  {
+    "kode": "BRG-0244",
+    "kategori": "TOPI",
+    "nama": "TOPI KOKAM JALAMES",
+    "warna": "Coklat",
+    "rincian": {
+      "ALL SIZE": 3,
+      "M": 0,
+      "L": 0,
+      "XL": 0
+    },
+    "harga_dasar": 50000,
+    "harga_min": 50000,
+    "harga_max": 65000,
+    "tanggal": "2026-09-29"
+  },
+  {
+    "kode": "BRG-0245",
+    "kategori": "ATRIBUT HW",
+    "nama": "HW TOPI ATFAL",
+    "warna": "Coklat",
+    "rincian": {
+      "ALL SIZE": 5
+    },
+    "harga_dasar": 10000,
+    "harga_min": 12000,
+    "harga_max": 12000,
+    "tanggal": "2026-09-29"
+  },
+  {
+    "kode": "BRG-0246",
+    "kategori": "ATRIBUT HW",
+    "nama": "HW TOPI PENGHELA",
+    "warna": "Coklat",
+    "rincian": {
+      "ALL SIZE": 10
+    },
+    "harga_dasar": 10000,
+    "harga_min": 13000,
+    "harga_max": 13000,
+    "tanggal": "2026-09-29"
+  },
+  {
+    "kode": "BRG-0248",
+    "kategori": "ATRIBUT HW",
+    "nama": "HW TOPI PENGENAL",
+    "warna": "Coklat",
+    "rincian": {
+      "ALL SIZE": 10
+    },
+    "harga_dasar": 10000,
+    "harga_min": 13000,
+    "harga_max": 13000,
+    "tanggal": "2026-09-29"
+  }
+]

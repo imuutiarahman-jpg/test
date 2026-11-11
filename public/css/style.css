@@ -1,0 +1,107 @@
+/* assets/css/style.css — tema: navy sidebar, abu muda background, aksen biru/hijau/merah.
+   Satu file CSS untuk semua halaman agar gampang maintenance. */
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:'Inter',system-ui,Segoe UI,Roboto,Arial,sans-serif;background:#F1F4F9;color:#1e293b}
+.layout{display:flex;min-height:100vh}
+/* Sidebar */
+#sidebar{width:260px;flex-shrink:0;background:linear-gradient(#15246e,#0d1440);color:#fff;display:flex;flex-direction:column;min-height:100vh;position:sticky;top:0;height:100vh}
+#sidebar .brand{display:flex;gap:12px;align-items:center;padding:22px 18px}
+.brand-icon{width:44px;height:44px;border-radius:14px;background:#fff;border:1px solid rgba(125,211,252,.3);display:grid;place-items:center;font-size:22px;color:#7dd3fc;overflow:hidden;padding:0;flex-shrink:0}
+.brand-icon img{width:100%;height:100%;object-fit:cover;display:block}
+#sidebar h1{font-size:15px;line-height:1.2}
+#sidebar p{font-size:11px;color:#7dd3fc99;letter-spacing:1px}
+#sidebar nav{padding:0 12px;display:flex;flex-direction:column;gap:4px;flex:1;overflow:auto}
+#sidebar nav a{display:flex;gap:12px;align-items:center;padding:10px 14px;border-radius:10px;color:#B9C2DC;font-size:14px;text-decoration:none}
+#sidebar nav a:hover{background:rgba(255,255,255,.08);color:#fff}
+#sidebar nav a.active{background:#fff;color:#0F2167;font-weight:700}
+.side-user{padding:14px}.side-user-box{background:rgba(255,255,255,.1);border:1px solid rgba(255,255,255,.12);border-radius:12px;padding:10px 12px;font-size:12px}
+/* Main */
+.main{flex:1;min-width:0;display:flex;flex-direction:column}
+#topbar{background:#fff;border-bottom:1px solid #e2e8f0;position:sticky;top:0;z-index:20}
+.tabs{display:flex;gap:4px;padding:0 28px}
+.tabs a{padding:12px 14px;font-size:14px;color:#64748b;text-decoration:none;border-bottom:3px solid transparent}
+.tabs a.active{color:#0F2167;font-weight:700;border-color:#0F2167}
+.top-right{display:flex;gap:12px;align-items:center;padding:8px 28px}
+.search input{border:1px solid #e2e8f0;background:#f1f5f9;border-radius:999px;padding:8px 14px;font-size:13px;width:260px;outline:none}
+.user{font-size:13px;font-weight:700}
+.page-head{display:flex;align-items:center;padding:6px 28px 14px}
+.page-head h2{font-size:20px;color:#0F2167}
+.page-head .actions{margin-left:auto;display:flex;gap:8px}
+.content{padding:24px 28px;max-width:1400px;width:100%;margin:0 auto}
+.card{background:#fff;border:1px solid #E8EDF5;border-radius:16px;box-shadow:0 1px 3px rgba(16,24,64,.08);padding:20px;margin-bottom:16px}
+.grid{display:grid;gap:16px}.g4{grid-template-columns:repeat(4,1fr)}.g3{grid-template-columns:repeat(3,1fr)}.g2{grid-template-columns:repeat(2,1fr)}
+.kpi{display:flex;gap:12px;align-items:center}.kpi .ic{width:44px;height:44px;border-radius:12px;display:grid;place-items:center;font-size:18px}
+table.tbl{width:100%;border-collapse:collapse;font-size:14px}
+.tbl th{font-size:11px;text-transform:uppercase;color:#64748b;background:#f8fafc;text-align:left;padding:10px 14px}
+.tbl td{padding:11px 14px;border-bottom:1px solid #eef2f7}
+.tbl tr:hover td{background:#f8fafc}
+.btn{display:inline-block;padding:8px 14px;border-radius:9px;font-size:13px;text-decoration:none;border:1px solid #cbd5e1;background:#fff;color:#0F2167;cursor:pointer}
+.btn.navy{background:#0F2167;color:#fff;border-color:#0F2167}.btn.sky{background:#0ea5e9;color:#fff;border-color:#0ea5e9}.btn.red{color:#b91c1c;border-color:#fecaca}.btn.small{padding:5px 10px;font-size:12px}
+.inp{border:1px solid #e2e8f0;border-radius:9px;padding:8px 12px;font-size:14px;width:100%;outline:none}
+.inp:focus{border-color:#0F2167}
+.form-row{display:flex;gap:10px;flex-wrap:wrap;margin-bottom:12px}.form-row .inp{flex:1;min-width:160px}
+.muted{color:#64748b;font-size:12px}
+h3.ttl{font-size:12px;letter-spacing:1px;color:#64748b;text-transform:uppercase}
+.big{font-size:22px;font-weight:800}
+.pos-grid{display:grid;grid-template-columns:2fr 1fr;gap:16px}
+.prod-btn{border:1px solid #e2e8f0;border-radius:12px;padding:12px;text-align:left;background:#fff;cursor:pointer}
+.prod-btn:hover{border-color:#0ea5e9;background:#f0f9ff}
+.faq-item button{width:100%;text-align:left;background:none;border:none;font-weight:700;font-size:14px;padding:12px 0;cursor:pointer}
+/* --- Navigasi mobile (Android): hamburger + drawer + bottom nav --- */
+.hamburger{display:none;border:1px solid #e2e8f0;background:#f8fafc;border-radius:10px;width:42px;height:42px;font-size:18px;color:#0F2167;cursor:pointer;flex-shrink:0}
+.topbar-row{display:flex;align-items:center;gap:8px;padding:0 28px}
+.topbar-row .tabs{flex:1}
+.topbar-row .top-right{padding:8px 0}
+.close-btn{display:none;position:absolute;top:14px;right:14px;border:none;background:rgba(255,255,255,.12);color:#fff;width:36px;height:36px;border-radius:10px;font-size:16px;cursor:pointer}
+#overlay{position:fixed;inset:0;background:rgba(15,23,42,.55);z-index:40;opacity:0;transition:opacity .2s}
+#overlay.show{opacity:1}
+#overlay[hidden]{display:none!important}
+#bottomnav{display:none}
+/* Cegah kartu chart meluber (canvas punya lebar minimum bawaan) */
+.grid>*{min-width:0}
+.kpi>div{min-width:0}
+.ber-grid{display:grid;grid-template-columns:2fr 1fr;gap:16px}
+/* Tabel & media responsif */
+.card{overflow-x:auto}
+table.tbl{min-width:560px}
+table.tbl td,table.tbl th{white-space:nowrap}
+table.tbl td.wrap,table.tbl th.wrap{white-space:normal}
+canvas{max-width:100%;height:auto!important}
+img{max-width:100%;height:auto}
+/* Tablet */
+@media(max-width:1023px){
+  .g4,.g3,.ber-grid{grid-template-columns:repeat(2,1fr)}
+  .pos-grid{grid-template-columns:1fr}
+  .hamburger{display:grid;place-items:center}
+  #sidebar{position:fixed;top:0;left:0;bottom:0;z-index:50;width:min(300px,84vw);transform:translateX(-105%);transition:transform .25s ease;box-shadow:0 0 40px rgba(0,0,0,.35)}
+  #sidebar.open{transform:translateX(0)}
+  .close-btn{display:grid;place-items:center}
+  .topbar-row{padding:8px 16px;flex-wrap:wrap}
+  .tabs{padding:0;overflow-x:auto}
+  .tabs a{white-space:nowrap;padding:12px 10px}
+  .top-right{padding:4px 16px 8px;width:100%}
+  .search{flex:1}.search input{width:100%}
+  .user{display:none}
+  .page-head{padding:6px 16px 12px;flex-wrap:wrap;gap:8px}
+  .content{padding:16px;padding-bottom:84px}
+}
+/* HP kecil (Android 360px) */
+@media(max-width:640px){
+  body{font-size:15px}
+  .g4,.g3,.g2,.ber-grid{grid-template-columns:1fr}
+  .page-head h2{font-size:18px}
+  .page-head .actions{width:100%}
+  .page-head .actions .btn{flex:1;text-align:center;padding:12px;min-height:44px}
+  .card{padding:14px;border-radius:14px}
+  .big{font-size:19px}
+  .btn{min-height:42px;display:inline-flex;align-items:center;justify-content:center}
+  .btn.small{min-height:38px}
+  .inp{font-size:16px;padding:10px 12px} /* cegah auto-zoom iOS/Android */
+  .form-row{flex-direction:column}
+  .form-row .inp{min-width:0}
+  #bottomnav{display:flex;position:fixed;bottom:0;left:0;right:0;z-index:30;background:#fff;border-top:1px solid #e2e8f0;padding:6px 4px calc(6px + env(safe-area-inset-bottom));box-shadow:0 -2px 12px rgba(16,24,64,.08)}
+  #bottomnav a{flex:1;display:flex;flex-direction:column;align-items:center;gap:2px;padding:8px 2px;font-size:11px;color:#64748b;text-decoration:none;border-radius:10px;min-height:52px;justify-content:center}
+  #bottomnav a i{font-size:17px}
+  #bottomnav a.active{color:#0F2167;font-weight:700;background:#eef2ff}
+}
+@media print{.no-print,#sidebar,#topbar,#bottomnav,#overlay{display:none!important}body{background:#fff}}
